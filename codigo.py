@@ -1,4 +1,4 @@
-usuarios = ["juan", "pedro", "lopez"]
+usuarios = ["Jose", "Manuel", "lopez"]
 
 def revisar(usuario, contra):
     
